@@ -1,0 +1,141 @@
+c:\users\denis lebedev\documents\visual studio 2015\Projects\shipTest\shipTest\bin\Debug\shipTest.exe.config
+c:\users\denis lebedev\documents\visual studio 2015\Projects\shipTest\shipTest\bin\Debug\shipTest.exe
+c:\users\denis lebedev\documents\visual studio 2015\Projects\shipTest\shipTest\bin\Debug\shipTest.pdb
+c:\users\denis lebedev\documents\visual studio 2015\Projects\shipTest\shipTest\obj\Debug\shipTest.csprojResolveAssemblyReference.cache
+c:\users\denis lebedev\documents\visual studio 2015\Projects\shipTest\shipTest\obj\Debug\MainWindow.g.cs
+c:\users\denis lebedev\documents\visual studio 2015\Projects\shipTest\shipTest\obj\Debug\App.g.cs
+c:\users\denis lebedev\documents\visual studio 2015\Projects\shipTest\shipTest\obj\Debug\shipTest_MarkupCompile.cache
+c:\users\denis lebedev\documents\visual studio 2015\Projects\shipTest\shipTest\obj\Debug\shipTest_MarkupCompile.lref
+c:\users\denis lebedev\documents\visual studio 2015\Projects\shipTest\shipTest\obj\Debug\MainWindow.baml
+c:\users\denis lebedev\documents\visual studio 2015\Projects\shipTest\shipTest\obj\Debug\shipTest.g.resources
+c:\users\denis lebedev\documents\visual studio 2015\Projects\shipTest\shipTest\obj\Debug\shipTest.Properties.Resources.resources
+c:\users\denis lebedev\documents\visual studio 2015\Projects\shipTest\shipTest\obj\Debug\shipTest.csproj.GenerateResource.Cache
+c:\users\denis lebedev\documents\visual studio 2015\Projects\shipTest\shipTest\obj\Debug\shipTest.exe
+c:\users\denis lebedev\documents\visual studio 2015\Projects\shipTest\shipTest\obj\Debug\shipTest.pdb
+C:\Users\1532444\Desktop\shipTest\shipTest\bin\Debug\shipTest.exe.config
+C:\Users\1532444\Desktop\shipTest\shipTest\bin\Debug\shipTest.exe
+C:\Users\1532444\Desktop\shipTest\shipTest\bin\Debug\shipTest.pdb
+C:\Users\1532444\Desktop\shipTest\shipTest\obj\Debug\shipTest.csprojResolveAssemblyReference.cache
+C:\Users\1532444\Desktop\shipTest\shipTest\obj\Debug\MainWindow.g.cs
+C:\Users\1532444\Desktop\shipTest\shipTest\obj\Debug\App.g.cs
+C:\Users\1532444\Desktop\shipTest\shipTest\obj\Debug\shipTest_MarkupCompile.cache
+C:\Users\1532444\Desktop\shipTest\shipTest\obj\Debug\shipTest_MarkupCompile.lref
+C:\Users\1532444\Desktop\shipTest\shipTest\obj\Debug\MainWindow.baml
+C:\Users\1532444\Desktop\shipTest\shipTest\obj\Debug\shipTest.g.resources
+C:\Users\1532444\Desktop\shipTest\shipTest\obj\Debug\shipTest.Properties.Resources.resources
+C:\Users\1532444\Desktop\shipTest\shipTest\obj\Debug\shipTest.csproj.GenerateResource.Cache
+C:\Users\1532444\Desktop\shipTest\shipTest\obj\Debug\shipTest.exe
+C:\Users\1532444\Desktop\shipTest\shipTest\obj\Debug\shipTest.pdb
+H:\c#Test\shipTest\shipTest\bin\Debug\shipTest.exe.config
+H:\c#Test\shipTest\shipTest\obj\Debug\shipTest.exe
+H:\c#Test\shipTest\shipTest\obj\Debug\shipTest.pdb
+H:\c#Test\shipTest\shipTest\bin\Debug\shipTest.exe
+H:\c#Test\shipTest\shipTest\bin\Debug\shipTest.pdb
+H:\c#Test\shipTest\shipTest\obj\Debug\shipTest.csprojResolveAssemblyReference.cache
+H:\c#Test\shipTest\shipTest\obj\Debug\MainWindow.g.cs
+H:\c#Test\shipTest\shipTest\obj\Debug\App.g.cs
+H:\c#Test\shipTest\shipTest\obj\Debug\shipTest_MarkupCompile.cache
+H:\c#Test\shipTest\shipTest\obj\Debug\shipTest_MarkupCompile.lref
+H:\c#Test\shipTest\shipTest\obj\Debug\MainWindow.baml
+H:\c#Test\shipTest\shipTest\obj\Debug\shipTest.g.resources
+H:\c#Test\shipTest\shipTest\obj\Debug\shipTest.Properties.Resources.resources
+H:\c#Test\shipTest\shipTest\obj\Debug\shipTest.csproj.GenerateResource.Cache
+C:\Users\Usager\Desktop\c#Test\shipTest\shipTest\bin\Debug\shipTest.exe.config
+C:\Users\Usager\Desktop\c#Test\shipTest\shipTest\obj\Debug\shipTest.exe
+C:\Users\Usager\Desktop\c#Test\shipTest\shipTest\obj\Debug\shipTest.pdb
+C:\Users\Usager\Desktop\c#Test\shipTest\shipTest\bin\Debug\shipTest.exe
+C:\Users\Usager\Desktop\c#Test\shipTest\shipTest\bin\Debug\shipTest.pdb
+C:\Users\Usager\Desktop\c#Test\shipTest\shipTest\obj\Debug\shipTest.csprojResolveAssemblyReference.cache
+C:\Users\Usager\Desktop\c#Test\shipTest\shipTest\obj\Debug\MainWindow.g.cs
+C:\Users\Usager\Desktop\c#Test\shipTest\shipTest\obj\Debug\App.g.cs
+C:\Users\Usager\Desktop\c#Test\shipTest\shipTest\obj\Debug\shipTest_MarkupCompile.cache
+C:\Users\Usager\Desktop\c#Test\shipTest\shipTest\obj\Debug\shipTest_MarkupCompile.lref
+C:\Users\Usager\Desktop\c#Test\shipTest\shipTest\obj\Debug\MainWindow.baml
+C:\Users\Usager\Desktop\c#Test\shipTest\shipTest\obj\Debug\shipTest.g.resources
+C:\Users\Usager\Desktop\c#Test\shipTest\shipTest\obj\Debug\shipTest.Properties.Resources.resources
+C:\Users\Usager\Desktop\c#Test\shipTest\shipTest\obj\Debug\shipTest.csproj.GenerateResource.Cache
+C:\Users\1532444\Desktop\cTest\c#Test\shipTest\shipTest\bin\Debug\shipTest.exe.config
+C:\Users\1532444\Desktop\cTest\c#Test\shipTest\shipTest\obj\Debug\shipTest.exe
+C:\Users\1532444\Desktop\cTest\c#Test\shipTest\shipTest\obj\Debug\shipTest.pdb
+C:\Users\1532444\Desktop\cTest\c#Test\shipTest\shipTest\bin\Debug\shipTest.exe
+C:\Users\1532444\Desktop\cTest\c#Test\shipTest\shipTest\bin\Debug\shipTest.pdb
+C:\Users\1532444\Desktop\cTest\c#Test\shipTest\shipTest\obj\Debug\shipTest.csprojResolveAssemblyReference.cache
+C:\Users\1532444\Desktop\cTest\c#Test\shipTest\shipTest\obj\Debug\MainWindow.g.cs
+C:\Users\1532444\Desktop\cTest\c#Test\shipTest\shipTest\obj\Debug\App.g.cs
+C:\Users\1532444\Desktop\cTest\c#Test\shipTest\shipTest\obj\Debug\shipTest_MarkupCompile.cache
+C:\Users\1532444\Desktop\cTest\c#Test\shipTest\shipTest\obj\Debug\shipTest_MarkupCompile.lref
+C:\Users\1532444\Desktop\cTest\c#Test\shipTest\shipTest\obj\Debug\MainWindow.baml
+C:\Users\1532444\Desktop\cTest\c#Test\shipTest\shipTest\obj\Debug\shipTest.g.resources
+C:\Users\1532444\Desktop\cTest\c#Test\shipTest\shipTest\obj\Debug\shipTest.Properties.Resources.resources
+C:\Users\1532444\Desktop\cTest\c#Test\shipTest\shipTest\obj\Debug\shipTest.csproj.GenerateResource.Cache
+C:\Users\1532444\Desktop\c#Test\shipTest\shipTest\bin\Debug\shipTest.exe.config
+C:\Users\1532444\Desktop\c#Test\shipTest\shipTest\obj\Debug\shipTest.exe
+C:\Users\1532444\Desktop\c#Test\shipTest\shipTest\obj\Debug\shipTest.pdb
+C:\Users\1532444\Desktop\c#Test\shipTest\shipTest\obj\Debug\shipTest.csprojResolveAssemblyReference.cache
+C:\Users\1532444\Desktop\c#Test\shipTest\shipTest\obj\Debug\MainWindow.g.cs
+C:\Users\1532444\Desktop\c#Test\shipTest\shipTest\obj\Debug\App.g.cs
+C:\Users\1532444\Desktop\c#Test\shipTest\shipTest\obj\Debug\shipTest_MarkupCompile.cache
+C:\Users\1532444\Desktop\c#Test\shipTest\shipTest\obj\Debug\shipTest_MarkupCompile.lref
+C:\Users\1532444\Desktop\c#Test\shipTest\shipTest\bin\Debug\shipTest.exe
+C:\Users\1532444\Desktop\c#Test\shipTest\shipTest\bin\Debug\shipTest.pdb
+C:\Users\1532444\Desktop\c#Test\shipTest\shipTest\obj\Debug\MainWindow.baml
+C:\Users\1532444\Desktop\c#Test\shipTest\shipTest\obj\Debug\shipTest.g.resources
+C:\Users\1532444\Desktop\c#Test\shipTest\shipTest\obj\Debug\shipTest.Properties.Resources.resources
+C:\Users\1532444\Desktop\c#Test\shipTest\shipTest\obj\Debug\shipTest.csproj.GenerateResource.Cache
+E:\c#Test\c#Test\shipTest\shipTest\bin\Debug\shipTest.exe.config
+E:\c#Test\c#Test\shipTest\shipTest\obj\Debug\shipTest.exe
+E:\c#Test\c#Test\shipTest\shipTest\obj\Debug\shipTest.pdb
+E:\c#Test\c#Test\shipTest\shipTest\bin\Debug\shipTest.exe
+E:\c#Test\c#Test\shipTest\shipTest\bin\Debug\shipTest.pdb
+E:\c#Test\c#Test\shipTest\shipTest\obj\Debug\shipTest.csprojResolveAssemblyReference.cache
+E:\c#Test\c#Test\shipTest\shipTest\obj\Debug\MainWindow.g.cs
+E:\c#Test\c#Test\shipTest\shipTest\obj\Debug\App.g.cs
+E:\c#Test\c#Test\shipTest\shipTest\obj\Debug\shipTest_MarkupCompile.cache
+E:\c#Test\c#Test\shipTest\shipTest\obj\Debug\shipTest_MarkupCompile.lref
+E:\c#Test\c#Test\shipTest\shipTest\obj\Debug\MainWindow.baml
+E:\c#Test\c#Test\shipTest\shipTest\obj\Debug\shipTest.g.resources
+E:\c#Test\c#Test\shipTest\shipTest\obj\Debug\shipTest.Properties.Resources.resources
+E:\c#Test\c#Test\shipTest\shipTest\obj\Debug\shipTest.csproj.GenerateResource.Cache
+E:\c#Test\shipTest\shipTest\bin\Debug\shipTest.exe.config
+E:\c#Test\shipTest\shipTest\bin\Debug\shipTest.exe
+E:\c#Test\shipTest\shipTest\bin\Debug\shipTest.pdb
+E:\c#Test\shipTest\shipTest\obj\Debug\shipTest.csprojResolveAssemblyReference.cache
+E:\c#Test\shipTest\shipTest\obj\Debug\MainWindow.g.cs
+E:\c#Test\shipTest\shipTest\obj\Debug\App.g.cs
+E:\c#Test\shipTest\shipTest\obj\Debug\shipTest_MarkupCompile.cache
+E:\c#Test\shipTest\shipTest\obj\Debug\shipTest_MarkupCompile.lref
+E:\c#Test\shipTest\shipTest\obj\Debug\MainWindow.baml
+E:\c#Test\shipTest\shipTest\obj\Debug\shipTest.g.resources
+E:\c#Test\shipTest\shipTest\obj\Debug\shipTest.Properties.Resources.resources
+E:\c#Test\shipTest\shipTest\obj\Debug\shipTest.csproj.GenerateResource.Cache
+E:\c#Test\shipTest\shipTest\obj\Debug\shipTest.exe
+E:\c#Test\shipTest\shipTest\obj\Debug\shipTest.pdb
+D:\c#Test\shipTest\shipTest\bin\Debug\shipTest.exe.config
+D:\c#Test\shipTest\shipTest\obj\Debug\shipTest.exe
+D:\c#Test\shipTest\shipTest\obj\Debug\shipTest.pdb
+D:\c#Test\shipTest\shipTest\bin\Debug\shipTest.exe
+D:\c#Test\shipTest\shipTest\bin\Debug\shipTest.pdb
+D:\c#Test\shipTest\shipTest\obj\Debug\shipTest.csprojResolveAssemblyReference.cache
+D:\c#Test\shipTest\shipTest\obj\Debug\MainWindow.g.cs
+D:\c#Test\shipTest\shipTest\obj\Debug\App.g.cs
+D:\c#Test\shipTest\shipTest\obj\Debug\shipTest_MarkupCompile.cache
+D:\c#Test\shipTest\shipTest\obj\Debug\shipTest_MarkupCompile.lref
+D:\c#Test\shipTest\shipTest\obj\Debug\MainWindow.baml
+D:\c#Test\shipTest\shipTest\obj\Debug\shipTest.g.resources
+D:\c#Test\shipTest\shipTest\obj\Debug\shipTest.Properties.Resources.resources
+D:\c#Test\shipTest\shipTest\obj\Debug\shipTest.csproj.GenerateResource.Cache
+I:\c#Test\shipTest\shipTest\bin\Debug\shipTest.exe.config
+I:\c#Test\shipTest\shipTest\obj\Debug\shipTest.exe
+I:\c#Test\shipTest\shipTest\obj\Debug\shipTest.pdb
+I:\c#Test\shipTest\shipTest\bin\Debug\shipTest.exe
+I:\c#Test\shipTest\shipTest\bin\Debug\shipTest.pdb
+I:\c#Test\shipTest\shipTest\obj\Debug\shipTest.csprojResolveAssemblyReference.cache
+I:\c#Test\shipTest\shipTest\obj\Debug\MainWindow.g.cs
+I:\c#Test\shipTest\shipTest\obj\Debug\App.g.cs
+I:\c#Test\shipTest\shipTest\obj\Debug\shipTest_MarkupCompile.cache
+I:\c#Test\shipTest\shipTest\obj\Debug\shipTest_MarkupCompile.lref
+I:\c#Test\shipTest\shipTest\obj\Debug\MainWindow.baml
+I:\c#Test\shipTest\shipTest\obj\Debug\shipTest.g.resources
+I:\c#Test\shipTest\shipTest\obj\Debug\shipTest.Properties.Resources.resources
+I:\c#Test\shipTest\shipTest\obj\Debug\shipTest.csproj.GenerateResource.Cache
+E:\c#Test\shipTest\shipTest\obj\Debug\shipTest_Content.g.cs
